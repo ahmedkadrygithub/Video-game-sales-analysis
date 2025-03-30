@@ -1,6 +1,8 @@
 # Video-game-sales-analysis
 Links:
 
+[Original dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
 [Jupyter botebook](https://github.com/ahmedkadrygithub/Video-game-sales-analysis/blob/main/vgs.ipynb)
 
 [Power bi file](https://github.com/ahmedkadrygithub/Video-game-sales-analysis/tree/main/Power%20bi)
