@@ -1,6 +1,7 @@
 # Video-game-sales-analysis
 Links:
 [Jupyter botebook](https://github.com/ahmedkadrygithub/Video-game-sales-analysis/blob/main/vgs.ipynb)
+
 [Power bi file]([https://github.com/ahmedkadrygithub/Video-game-sales-analysis/blob/main/vgs.ipynb](https://github.com/ahmedkadrygithub/Video-game-sales-analysis/tree/main/Power%20bi))
 
 <h4>What is the businesses context? </h4>
